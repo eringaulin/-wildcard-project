@@ -1,0 +1,61 @@
+
+body {
+  text-align: center;
+}
+
+h1{
+font-size: 70px;
+margin: 0px;
+font-family: 'Lexend Peta', sans-serif;
+}
+
+h2{
+  font-size: 30px;
+  margin: 0px;
+  font-family: 'Pacifico', cursive;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+.weather {
+  padding: 40px;
+  padding-right: 70px;
+  margin: 10px;
+  margin-left: 150px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+.feeling {
+  padding: 40px;
+  padding-left: 60px;
+  margin: 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+.event {
+  padding: 40px;
+  padding-left: 70px;
+  margin: 10px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+button {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+  border-radius: 25px;
+}
+
+.container{
+
+}
