@@ -12,7 +12,7 @@ font-family: 'Lexend Peta', sans-serif;
 h2{
   font-size: 30px;
   margin: 0px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Playball', cursive;
 }
 
 div {
@@ -54,6 +54,10 @@ button {
   padding-right: 20px;
   font-size: 20px;
   border-radius: 25px;
+}
+
+.delete {
+  border: 1px solid black
 }
 
 .container{

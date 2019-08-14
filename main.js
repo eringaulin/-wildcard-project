@@ -5,14 +5,20 @@ var coldButton = $('b4')
 var cheerfulButton = $('b5')
 var blueButton = $('b6')
 var lazyButton = $('b7')
-var adcenturousButton = $('b8')
+var adventurousButton = $('b8')
 var formalButton = $('b9')
 var casualButton = $('b10')
 var workButton = $('b11')
 var dateButton = $('b12')
+var section = $('.container')
 
-button.on("click", appendRainy);
+rainyButton.on("click", appendRainy);
 function appendRainy() {
   event.preventDefault();
-  container.append(`<p> ${name} </p>`);
+  section.append(`<p>ayo</p>`);
 }
+
+clear.on("click", clearButton)
+  function clearButton(){
+    section.remove();
+  }
