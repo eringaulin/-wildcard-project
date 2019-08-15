@@ -16,7 +16,7 @@ var deleteButton = $('.delete');
 
 rainyButton.on("click", appendRainy);
   function appendRainy(){
-    section.append(`
+    section.append(`<h4>R A I N Y</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -38,7 +38,7 @@ rainyButton.on("click", appendRainy);
 
 sunnyButton.on("click", appendSunny);
   function appendSunny(){
-    section.append(`
+    section.append(`<h4>S U N N Y</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -60,7 +60,7 @@ sunnyButton.on("click", appendSunny);
 
 warmButton.on("click", appendWarm);
   function appendWarm(){
-    section.append(`
+    section.append(`<h4>W A R M</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -82,7 +82,7 @@ warmButton.on("click", appendWarm);
 
 coldButton.on("click", appendCold);
   function appendCold(){
-    section.append(`
+    section.append(`<h4>C O L D</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -104,7 +104,7 @@ coldButton.on("click", appendCold);
 
 cheerfulButton.on("click", appendCheerful);
   function appendCheerful(){
-    section.append(`
+    section.append(`<h4>C H E E R F U L</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -126,7 +126,7 @@ cheerfulButton.on("click", appendCheerful);
 
 blueButton.on("click", appendBlue);
   function appendBlue(){
-    section.append(`
+    section.append(`<h4>B L U E</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -148,7 +148,7 @@ blueButton.on("click", appendBlue);
 
 lazyButton.on("click", appendLazy);
     function appendLazy(){
-      section.append(`
+      section.append(`<h4>L A Z Y</h4>
         <section class= "rainy">
           <div class = "picandcap">
             <h3>Feminine</h3>
@@ -170,7 +170,7 @@ lazyButton.on("click", appendLazy);
 
 adventurousButton.on("click", appendAdventurous);
     function appendAdventurous(){
-      section.append(`
+      section.append(`<h4>A D V E N T U R O U S</h4>
         <section class= "rainy">
           <div class = "picandcap">
             <h3>Feminine</h3>
@@ -192,7 +192,7 @@ adventurousButton.on("click", appendAdventurous);
 
 formalButton.on("click", appendFormal);
     function appendFormal(){
-      section.append(`
+      section.append(`<h4>F O R M A L</h4>
         <section class= "rainy">
           <div class = "picandcap">
             <h3>Feminine</h3>
@@ -214,7 +214,7 @@ formalButton.on("click", appendFormal);
 
 casualButton.on("click", appendCasual);
     function appendCasual(){
-      section.append(`
+      section.append(`<h4>C A S U A L</h4>
         <section class= "rainy">
           <div class = "picandcap">
             <h3>Feminine</h3>
@@ -236,7 +236,7 @@ casualButton.on("click", appendCasual);
 
 workButton.on("click", appendWork);
   function appendWork(){
-    section.append(`
+    section.append(`<h4>W O R K</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
@@ -258,7 +258,7 @@ workButton.on("click", appendWork);
 
 dateButton.on("click", appendDate);
   function appendDate(){
-    section.append(`
+    section.append(`<h4>D A T E</h4>
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
