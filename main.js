@@ -30,6 +30,9 @@ rainyButton.on("click", appendRainy);
           <h3>Masculine</h3>
           <img src="https://i.pinimg.com/originals/94/f3/85/94f3851a79e85dd0366d829324e43c7f.jpg" alt="mpic">
         </div>
+        <div class="text">
+          <p>sksk</p>
+        </div>
       </section>`);
   }
 
@@ -96,15 +99,15 @@ cheerfulButton.on("click", appendCheerful);
       <section class= "rainy">
         <div class = "picandcap">
           <h3>Feminine</h3>
-          <img src="https://i.pinimg.com/236x/c3/ed/b0/c3edb066782201dad72b6ba1be499e1f--fall-party-outfits-rain-outfits.jpg" alt="fpic">
+          <img src="https://i1.wp.com/fmag.com/wp-content/uploads/2018/10/yellow-polo-shirt-with-white-high-rise-skinny-ankle-jeans.jpg?resize=300%2C450&ssl=1" alt="fpic">
         </div>
         <div class = "picandcap">
           <h3>Unisex</h3>
-          <img src="https://i.pinimg.com/236x/27/b4/b2/27b4b2cc190ca3f66ebc9520f4455c00--niklas-garrn-unisex-style.jpg" alt="upic">
+          <img src="https://media1.popsugar-assets.com/files/thumbor/5RXpK8stBce2DvU-zml4lxEjtx8/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/06/06/740/n/1922564/1256d0d55cf94361baaef0.48778225_/i/Unisex-Clothes-Urban-Outfitters.jpg" alt="upic">
         </div>
         <div class = "picandcap">
           <h3>Masculine</h3>
-          <img src="https://i.pinimg.com/originals/94/f3/85/94f3851a79e85dd0366d829324e43c7f.jpg" alt="mpic">
+          <img src="http://graphics8.nytimes.com/images/2014/06/23/t-magazine/24streetstyle-milan-slide-AJI2/24streetstyle-milan-slide-AJI2-jumbo.jpg" alt="mpic">
         </div>
       </section>`);
   }
@@ -176,7 +179,7 @@ formalButton.on("click", appendFormal);
           </div>
           <div class = "picandcap">
             <h3>Unisex</h3>
-            <img src="https://i.pinimg.com/236x/27/b4/b2/27b4b2cc190ca3f66ebc9520f4455c00--niklas-garrn-unisex-style.jpg" alt="upic">
+            <img src="https://cdn.endource.com/image/s3-c448705c1d818179e15fa34eb98ed113/detail/hugo-boss-unisex-suit.jpg" alt="upic">
           </div>
           <div class = "picandcap">
             <h3>Masculine</h3>
@@ -191,15 +194,15 @@ casualButton.on("click", appendCasual);
         <section class= "rainy">
           <div class = "picandcap">
             <h3>Feminine</h3>
-            <img src="https://i.pinimg.com/236x/c3/ed/b0/c3edb066782201dad72b6ba1be499e1f--fall-party-outfits-rain-outfits.jpg" alt="fpic">
+            <img src="https://i.pinimg.com/originals/af/fc/89/affc8923992789c718c1ba3f78e0d69f.jpg" alt="fpic">
           </div>
           <div class = "picandcap">
             <h3>Unisex</h3>
-            <img src="https://i.pinimg.com/236x/27/b4/b2/27b4b2cc190ca3f66ebc9520f4455c00--niklas-garrn-unisex-style.jpg" alt="upic">
+            <img src="https://cdn.shopify.com/s/files/1/1017/2511/products/NIQUE_AUTUMN2081341782_500x.jpg?v=1564367847" alt="upic">
           </div>
           <div class = "picandcap">
             <h3>Masculine</h3>
-            <img src="https://i.pinimg.com/originals/94/f3/85/94f3851a79e85dd0366d829324e43c7f.jpg" alt="mpic">
+            <img src="https://i.pinimg.com/originals/25/04/fa/2504fac12ee93b3f3bfb643ab58f0488.jpg" alt="mpic">
           </div>
         </section>`);
     }
@@ -214,7 +217,7 @@ workButton.on("click", appendWork);
         </div>
         <div class = "picandcap">
           <h3>Unisex</h3>
-          <img src="https://i.pinimg.com/236x/27/b4/b2/27b4b2cc190ca3f66ebc9520f4455c00--niklas-garrn-unisex-style.jpg" alt="upic">
+          <img src="https://womanuntamed.com/uploads/u/unisex-style/unisex-style_1.jpg" alt="upic">
         </div>
         <div class = "picandcap">
           <h3>Masculine</h3>
@@ -233,11 +236,11 @@ dateButton.on("click", appendDate);
         </div>
         <div class = "picandcap">
           <h3>Unisex</h3>
-          <img src="https://i.pinimg.com/236x/27/b4/b2/27b4b2cc190ca3f66ebc9520f4455c00--niklas-garrn-unisex-style.jpg" alt="upic">
+          <img src="https://images.express.com/is/image/expressfashion/0027_09393649_0098?cache=on&wid=361&fmt=jpeg&qlt=75,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon" alt="upic">
         </div>
         <div class = "picandcap">
           <h3>Masculine</h3>
-          <img src="https://i.pinimg.com/originals/94/f3/85/94f3851a79e85dd0366d829324e43c7f.jpg" alt="mpic">
+          <img src="https://globerapp.files.wordpress.com/2014/05/medium_6090798822.jpg" alt="mpic">
         </div>
       </section>`);
   }
