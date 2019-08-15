@@ -30,10 +30,10 @@ rainyButton.on("click", appendRainy);
           <h3>Masculine</h3>
           <img src="https://i.pinimg.com/originals/94/f3/85/94f3851a79e85dd0366d829324e43c7f.jpg" alt="mpic">
         </div>
-        <div class="text">
-          <p>sksk</p>
-        </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>Wearing more neutral and cool-toned shades is perfect for rainy weather. Pairing your outfit with a statement coat will help elevate it.</p>
+      </div>`);
   }
 
 sunnyButton.on("click", appendSunny);
@@ -52,7 +52,10 @@ sunnyButton.on("click", appendSunny);
           <h3>Masculine</h3>
           <img src="https://i.pinimg.com/originals/a9/77/44/a97744d81ff9d93e5b3cc00b5cd05562.jpg" alt="mpic">
         </div>
-    </section>`);
+    </section>
+    <div class="text">
+      <p>sksk</p>
+    </div>`);
   }
 
 warmButton.on("click", appendWarm);
@@ -71,7 +74,10 @@ warmButton.on("click", appendWarm);
           <h3>Masculine</h3>
           <img src="https://cdn.shopify.com/s/files/1/0071/3637/8998/files/mens-summer-street-style-blue-t-shirt-denim-shorts-trainers.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 coldButton.on("click", appendCold);
@@ -90,7 +96,10 @@ coldButton.on("click", appendCold);
           <h3>Masculine</h3>
           <img src="http://www.machovibes.com/wp-content/uploads/2018/08/36Ways-to-Look-Stylish-in-Extreme-Cold-Weather.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 cheerfulButton.on("click", appendCheerful);
@@ -109,7 +118,10 @@ cheerfulButton.on("click", appendCheerful);
           <h3>Masculine</h3>
           <img src="http://graphics8.nytimes.com/images/2014/06/23/t-magazine/24streetstyle-milan-slide-AJI2/24streetstyle-milan-slide-AJI2-jumbo.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 blueButton.on("click", appendBlue);
@@ -128,7 +140,10 @@ blueButton.on("click", appendBlue);
           <h3>Masculine</h3>
           <img src="https://ae01.alicdn.com/kf/HTB1YCy4bL6H8KJjSspmq6z2WXXav/Lazy-Cat-Cartoon-T-Shirt-Men-Street-Wear-Style-Black-White-T-Shirt-Men-Funny-Cotton.jpg_640x640.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 lazyButton.on("click", appendLazy);
@@ -147,7 +162,10 @@ lazyButton.on("click", appendLazy);
             <h3>Masculine</h3>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpTAa-chzZKB_JEMtlJXG_htNj-VygJfzyenMpHSlAySutGOOkQ" alt="mpic">
           </div>
-        </section>`);
+        </section>
+        <div class="text">
+          <p>sksk</p>
+        </div>`);
     }
 
 adventurousButton.on("click", appendAdventurous);
@@ -166,7 +184,10 @@ adventurousButton.on("click", appendAdventurous);
             <h3>Masculine</h3>
             <img src="https://cdn.shopify.com/s/files/1/1023/3455/files/MFW19_Paris_OFFWHITE_StreetStyle_EvaAlDesnudo_01-800x1200_grande.jpg?v=1547680107" alt="mpic">
           </div>
-        </section>`);
+        </section>
+        <div class="text">
+          <p>sksk</p>
+        </div>`);
     }
 
 formalButton.on("click", appendFormal);
@@ -185,7 +206,10 @@ formalButton.on("click", appendFormal);
             <h3>Masculine</h3>
             <img src="https://5.imimg.com/data5/JE/YF/MY-41899481/black-mens-suit-500x500.jpg" alt="mpic">
           </div>
-        </section>`);
+        </section>
+        <div class="text">
+          <p>sksk</p>
+        </div>`);
     }
 
 casualButton.on("click", appendCasual);
@@ -204,7 +228,10 @@ casualButton.on("click", appendCasual);
             <h3>Masculine</h3>
             <img src="https://i.pinimg.com/originals/25/04/fa/2504fac12ee93b3f3bfb643ab58f0488.jpg" alt="mpic">
           </div>
-        </section>`);
+        </section>
+        <div class="text">
+          <p>sksk</p>
+        </div>`);
     }
 
 workButton.on("click", appendWork);
@@ -223,7 +250,10 @@ workButton.on("click", appendWork);
           <h3>Masculine</h3>
           <img src="https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/C2B3ADA3D9B848FC9D6F630C5137A626/204971203_9324_C2B3ADA3D9B848FC9D6F630C5137A626.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 dateButton.on("click", appendDate);
@@ -242,7 +272,10 @@ dateButton.on("click", appendDate);
           <h3>Masculine</h3>
           <img src="https://globerapp.files.wordpress.com/2014/05/medium_6090798822.jpg" alt="mpic">
         </div>
-      </section>`);
+      </section>
+      <div class="text">
+        <p>sksk</p>
+      </div>`);
   }
 
 deleteButton.on("click", clearSection)
