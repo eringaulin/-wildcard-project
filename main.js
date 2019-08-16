@@ -54,7 +54,7 @@ sunnyButton.on("click", appendSunny);
         </div>
     </section>
     <div class="text">
-      <p>sksk</p>
+      <p>When it comes to sunny weather, it's nice to stick with thhe basic idea of shorts and either a short-sleeve or sleevless shirt. You can play with color matches and styles a ton between your top and bottoms.</p>
     </div>`);
   }
 
@@ -76,7 +76,7 @@ warmButton.on("click", appendWarm);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>Opting for lightweight clothing is your best bet when it comes to warm weather. A simple t-shirt and comfortable bottoms would be just fine for the heat.</p>
       </div>`);
   }
 
@@ -98,7 +98,7 @@ coldButton.on("click", appendCold);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>Cold weather calls for layering. Take advantage of this by layering sweaters, shirts, jackets, and even other accessories like scarves. Boots and a your favorite pair of jeans are a great way to top it off.</p>
       </div>`);
   }
 
@@ -120,7 +120,7 @@ cheerfulButton.on("click", appendCheerful);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>When it comes to dressing to express your cheerful mood, consider throwing in a bright pop of color. Yellow is most often associated with the idea of being happy, so next time you wake up particularly happy, try throwing some yellow into your outfit!</p>
       </div>`);
   }
 
@@ -142,7 +142,7 @@ blueButton.on("click", appendBlue);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>When you're feeling sad or upset, you should definitely aim to dress for comfort. Throw on your favorite pair of sweatpants and a large t-shirt or hoodie because comfort is the top priority.</p>
       </div>`);
   }
 
@@ -164,7 +164,7 @@ lazyButton.on("click", appendLazy);
           </div>
         </section>
         <div class="text">
-          <p>sksk</p>
+          <p>When you're feeling lazy, it doesn't mean you <i>can't</i> look somewhat put together. Pulling on a pair of joggers and/or a nice t-shirt of some kind can help you elevate your lazy day outfit.</p>
         </div>`);
     }
 
@@ -186,7 +186,7 @@ adventurousButton.on("click", appendAdventurous);
           </div>
         </section>
         <div class="text">
-          <p>sksk</p>
+          <p>If you're feeling adventurous, go ahead and dig through your closet. Pull out anything you can find that's interesting with you and start mixing and matching! Play with colors, textures, and patterns until you find something you like! Don't be afraid to step outside of your comfort zone.</p>
         </div>`);
     }
 
@@ -208,7 +208,7 @@ formalButton.on("click", appendFormal);
           </div>
         </section>
         <div class="text">
-          <p>sksk</p>
+          <p>The easiest way to dress up for formal events is to  start off with a basic article of clothing. Start with a simple colored/styled dress, suit, etc. and spice it up to  your taste with accessories and your shoes!</p>
         </div>`);
     }
 
@@ -230,7 +230,7 @@ casualButton.on("click", appendCasual);
           </div>
         </section>
         <div class="text">
-          <p>sksk</p>
+          <p>Casual outfits are very easy to achieve quickly because they're always made from basic items almost everyone owns. Start with a basic pair of jeans or pants, pull on a simple t-shirt and throw a jacket over it just in case. Slip on a plain pair of sneakers and you'll be more than ready to go.</p>
         </div>`);
     }
 
@@ -252,7 +252,7 @@ workButton.on("click", appendWork);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>For work, focus on achieving a simple look and silhouette. Choose solid colors and throw in patterns on accessories. If you want to spice it up a bit further, however, try throwing on a brighter, more colorful accessory or piece of clothing for a little pop. </p>
       </div>`);
   }
 
@@ -274,7 +274,7 @@ dateButton.on("click", appendDate);
         </div>
       </section>
       <div class="text">
-        <p>sksk</p>
+        <p>Outfits vary for dates depending on what events you have planned. The most important thing would be for you to choose a comfortable outfit that you think makes you look good! Dates are more of a mix of casual and formal, so keep with the ideas of both of them and mash it up!</p>
       </div>`);
   }
 
